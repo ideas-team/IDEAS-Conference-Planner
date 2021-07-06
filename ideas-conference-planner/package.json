@@ -9,7 +9,7 @@
     "start": "electron ."
   },
   "devDependencies": {
-    "electron": "^12.0.7"
+    "electron": "^13.1.6"
   },
   "dependencies": {
     "sequelize": "^6.6.2",
